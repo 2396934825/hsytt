@@ -29,7 +29,7 @@ return array(
   'components' => array(
         'db' => array(
             'class' => 'system.db.CDbConnection',
-            'connectionString' => 'mysql:host='.$db_host.';port=3308;dbname='.$db_name,
+            'connectionString' => 'mysql:host='.$db_host.';port=3306;dbname='.$db_name,
             'emulatePrepare' => true,
             'username' => $db_user,
             'password' => $db_pass,

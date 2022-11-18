@@ -1111,6 +1111,55 @@ INSERT INTO `course` VALUES ('11', '01', '语文', '', '');
 INSERT INTO `course` VALUES ('12', '22', '数学', '', '');
 
 -- ----------------------------
+-- Table structure for `goods`
+-- ----------------------------
+
+
+DROP TABLE IF EXISTS `goods`;
+CREATE TABLE `goods` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `code` char(2) DEFAULT '' COMMENT '冰的编码',
+  `value` varchar(20) DEFAULT '' COMMENT '冰的名称',
+  `size` varchar(20) DEFAULT '' COMMENT '规格',
+  `price` float (20) NOT NULL,
+  `subjectsetting` varchar(300) DEFAULT '' COMMENT '类型说明',
+  `subpic` varchar(120) DEFAULT '' COMMENT '图标',
+  PRIMARY KEY (`id`)
+
+) ENGINE=MyISAM AUTO_INCREMENT=4 DEFAULT CHARSET=utf8 COMMENT='商品列表展示';
+
+-- ----------------------------
+-- Records of goods
+-- ----------------------------
+INSERT INTO `goods` VALUES ('1', 'A1', '条冰', '100kg', '20.00','','');
+INSERT INTO `goods` VALUES ('2', 'A2', '碎冰', '100kg', '10.00','','');
+INSERT INTO `goods` VALUES ('3', 'B1', '碎冰', '100kg', '10.00','','');
+
+
+
+DROP TABLE IF EXISTS `delivery_man`;
+CREATE TABLE `delivery_man` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `code` char(3) DEFAULT '' COMMENT '送货人ID',
+  `name` varchar(20) DEFAULT '' COMMENT '姓名',
+  `phone` varchar(20) DEFAULT '' COMMENT '送货人电话',
+  `subjectsetting` varchar(300) DEFAULT '' COMMENT '类型说明',
+  `subpic` varchar(120) DEFAULT '' COMMENT '图标',
+  PRIMARY KEY (`id`,`code`)
+
+) ENGINE=MyISAM AUTO_INCREMENT=4 DEFAULT CHARSET=utf8 COMMENT='商品列表展示';
+
+-- ----------------------------
+-- Records of delivery_man
+-- ----------------------------
+INSERT INTO `delivery_man` VALUES ('1', '136', '物流人员2', '13325661644','','');
+INSERT INTO `delivery_man` VALUES ('2', '112', 'POCIED', '13766019619','','');
+INSERT INTO `delivery_man` VALUES ('3', '132', 'HaiO', '15521177223','','');
+INSERT INTO `delivery_man` VALUES ('4', '133', '渔船', '15521177223','','');
+INSERT INTO `delivery_man` VALUES ('5', '134', '渔船公司', '15521177223','','');
+INSERT INTO `delivery_man` VALUES ('6', '135', '物流公司', '15521177223','','');
+
+-- ----------------------------
 -- Table structure for `matches_info`
 -- ----------------------------
 DROP TABLE IF EXISTS `matches_info`;

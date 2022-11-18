@@ -17,7 +17,7 @@ class ClubList extends BaseModel {
             array('apply_name', 'required', 'message' => '{attribute} 不能为空'),
 			//array('contact_phone', 'required', 'message' => '{attribute} 不能为空'),
      
-			array('club_code,club_name,dispay_xh,club_list_pic','safe',), 
+			array('club_code,club_name,dispay_xh,club_list_pic','safe'),
 			//array($s1,'safe'),
 		);
     }

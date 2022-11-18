@@ -17,7 +17,17 @@ $st="";
             'award_index41' => array('冻结商家', 'MerchantFreeze/index'),
             'award_index42' => array('服務機構名稱22', 'clubList/index'),
        ),
+      ),
+      array(
+      '送冰',
+          array(
+            'award_index41' => array('商品列表', 'goodList/index'),
+            'award_index42' => array('添加送货人', 'DeliverIntention/index'),
+          )
+
       )
+
+
   );
 
 $main = array(
