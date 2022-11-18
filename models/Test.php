@@ -47,9 +47,15 @@ class Test extends BaseModel {
     }
 
    public static function put_msg($pmsg) {
+<<<<<<< HEAD
+        $this->isNewRecord = true;
+        $this->f_msg=$pmsg;
+        $this->save();
+=======
       //  $this->isNewRecord = true;
      //   $this->f_msg=$pmsg;
     //    $this->save();
+>>>>>>> 8e951b1 (second commit)
     }
 
 

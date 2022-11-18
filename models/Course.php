@@ -25,7 +25,11 @@ class Course extends BaseModel {
         return array(
             array('code', 'required', 'message' => '{attribute} 不能为空'),
             array('value', 'required', 'message' => '{attribute} 不能为空'),
+<<<<<<< HEAD
+			array('code,value','safe',), 
+=======
 			array('code,value','safe'),
+>>>>>>> 8e951b1 (second commit)
 			//array($s1,'safe'),
 		);
     }

@@ -1111,6 +1111,8 @@ INSERT INTO `course` VALUES ('11', '01', '语文', '', '');
 INSERT INTO `course` VALUES ('12', '22', '数学', '', '');
 
 -- ----------------------------
+<<<<<<< HEAD
+=======
 -- Table structure for `goods`
 -- ----------------------------
 
@@ -1160,6 +1162,7 @@ INSERT INTO `delivery_man` VALUES ('5', '134', '渔船公司', '15521177223','',
 INSERT INTO `delivery_man` VALUES ('6', '135', '物流公司', '15521177223','','');
 
 -- ----------------------------
+>>>>>>> 8e951b1 (second commit)
 -- Table structure for `matches_info`
 -- ----------------------------
 DROP TABLE IF EXISTS `matches_info`;

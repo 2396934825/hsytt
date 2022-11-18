@@ -21,10 +21,21 @@
             <table class="list">
                 <thead>
                     <tr>
+<<<<<<< HEAD
+
+        
+                        <th class="check"><input id="j-checkall" class="input-check" type="checkbox"></th>
+                        <th><?php echo $model->getAttributeLabel('code');?></th>
+                        <th><?php echo $model->getAttributeLabel('value');?></th>
+                        
+                      
+                                              <th>操作</th>
+=======
                         <th class="check"><input id="j-checkall" class="input-check" type="checkbox"></th>
                         <th><?php echo $model->getAttributeLabel('code');?></th>
                         <th><?php echo $model->getAttributeLabel('value');?></th>
                         <th>操作</th>
+>>>>>>> 8e951b1 (second commit)
                     </tr>
                 </thead>
                 <tbody>
@@ -32,7 +43,11 @@
                     <tr> 	
                         <td class="check check-item"><input class="input-check" type="checkbox" value="<?php echo CHtml::encode($v->id); ?>"></td>           
                         <td><?php echo $v->code; ?></td>
+<<<<<<< HEAD
+                        <td><?php echo $v->value ?></td>
+=======
                         <td><?php echo $v->value; ?></td>
+>>>>>>> 8e951b1 (second commit)
                         <td>
             
             <a class="btn" href="<?php echo $this->createUrl('update', array('id'=>$v->id));?>" title="编辑"><i class="fa fa-edit"></i></a>

@@ -17,6 +17,9 @@ $st="";
             'award_index41' => array('冻结商家', 'MerchantFreeze/index'),
             'award_index42' => array('服務機構名稱22', 'clubList/index'),
        ),
+<<<<<<< HEAD
+      )
+=======
       ),
       array(
       '送冰',
@@ -28,6 +31,7 @@ $st="";
       )
 
 
+>>>>>>> 8e951b1 (second commit)
   );
 
 $main = array(

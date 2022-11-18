@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9ee0fcab-8531-4c33-9f05-11a669ba81b6" name="Default" comment="" />
+=======
   <component name="ChangeListManager">
     <list default="true" id="9ee0fcab-8531-4c33-9f05-11a669ba81b6" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
@@ -76,6 +83,7 @@
       <change beforePath="$PROJECT_DIR$/runtime/admin/application.log" beforeDir="false" afterPath="$PROJECT_DIR$/runtime/admin/application.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sql/hsytt.sql" beforeDir="false" afterPath="$PROJECT_DIR$/sql/hsytt.sql" afterDir="false" />
     </list>
+>>>>>>> 8e951b1 (second commit)
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,6 +92,8 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+<<<<<<< HEAD
+=======
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -109,6 +119,7 @@
       </list>
     </option>
   </component>
+>>>>>>> 8e951b1 (second commit)
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
@@ -127,7 +138,11 @@
     <option name="width" value="2520" />
     <option name="height" value="1032" />
   </component>
+<<<<<<< HEAD
+  <component name="ProjectId" id="2HOWsBfiovkbsQk2NpWOCu3T8VU" />
+=======
   <component name="ProjectId" id="2Hi9Rvto4BmzwsxGC1YIE7p0QbR" />
+>>>>>>> 8e951b1 (second commit)
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -143,6 +158,8 @@
             <path>
               <item name="hsytt" type="b2602c69:ProjectViewProjectNode" />
               <item name="hsytt" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+=======
               <item name="admin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -240,20 +257,26 @@
             <path>
               <item name="hsytt" type="b2602c69:ProjectViewProjectNode" />
               <item name="hsytt" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 8e951b1 (second commit)
               <item name="include" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hsytt" type="b2602c69:ProjectViewProjectNode" />
               <item name="hsytt" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+=======
               <item name="models" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hsytt" type="b2602c69:ProjectViewProjectNode" />
               <item name="hsytt" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 8e951b1 (second commit)
               <item name="sql" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hsytt" type="b2602c69:ProjectViewProjectNode" />
+<<<<<<< HEAD
+=======
               <item name="hsytt" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -289,6 +312,7 @@
             </path>
             <path>
               <item name="hsytt" type="b2602c69:ProjectViewProjectNode" />
+>>>>>>> 8e951b1 (second commit)
               <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
             </path>
           </expand>
@@ -302,6 +326,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/wamp64/www/hsytt&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="config.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/include/config.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP 脚本.config.php" />
+      </list>
+    </recent_temporary>
+=======
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "WebServerToolWindowFactoryState": "false",
@@ -319,6 +367,7 @@
       <item itemvalue="JavaScript 调试.MerchantFreezeController.php" />
       <item itemvalue="PHP 脚本.Test.php" />
     </list>
+>>>>>>> 8e951b1 (second commit)
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -332,22 +381,54 @@
       <option name="presentableId" value="Default" />
       <updated>1668156166526</updated>
       <workItem from="1668156167704" duration="307000" />
+<<<<<<< HEAD
+      <workItem from="1668156819129" duration="16000" />
+      <workItem from="1668156837645" duration="121000" />
+      <workItem from="1668156968487" duration="295000" />
+      <workItem from="1668157389240" duration="308000" />
+      <workItem from="1668157839764" duration="805000" />
+      <workItem from="1668243936562" duration="1522000" />
+=======
       <workItem from="1668156606366" duration="5174000" />
       <workItem from="1668210544755" duration="32864000" />
       <workItem from="1668299396901" duration="8001000" />
       <workItem from="1668481838515" duration="3654000" />
       <workItem from="1668757039496" duration="15000" />
+>>>>>>> 8e951b1 (second commit)
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="307000" />
+=======
     <option name="totallyTimeSpent" value="50000000" />
+>>>>>>> 8e951b1 (second commit)
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1293" height="691" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24941361" />
       <window_info anchor="bottom" id="TODO" order="6" />
+<<<<<<< HEAD
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+=======
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.11415168" side_tool="true" visible="true" weight="0.115716755" />
       <window_info anchor="right" id="Database" order="3" />
@@ -365,11 +446,16 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.88584834" visible="true" weight="0.115716755" />
+>>>>>>> 8e951b1 (second commit)
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+<<<<<<< HEAD
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+=======
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -380,6 +466,7 @@
         </entry>
       </map>
     </option>
+>>>>>>> 8e951b1 (second commit)
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/sql/hsytt.sql">
@@ -389,6 +476,8 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
     <entry file="file://$PROJECT_DIR$/admin/views/index/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -683,5 +772,6 @@
         </state>
       </provider>
     </entry>
+>>>>>>> 8e951b1 (second commit)
   </component>
 </project>
